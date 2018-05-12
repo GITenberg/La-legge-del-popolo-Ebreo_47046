@@ -1,10 +1,16 @@
 _repo: La-legge-del-popolo-Ebreo_47046
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47046-h/images/cover.jpg
 creator:
   author:
     agent_name: Castelli, David
     gutenberg_agent_id: '44107'
     url: http://www.gutenberg.org/2009/agents/44107
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47046#La-legge-del-popolo-Ebreo
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2014-10-04'
 gutenberg_type: Text
